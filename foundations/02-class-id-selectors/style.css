@@ -1,0 +1,18 @@
+.coolerpclass,.pclass{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.coolerpclass{
+    font-size: 24px;
+}
+
+#ID2{color: blue;
+    font-size: 36px;
+}
+
+#ID4{
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
